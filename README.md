@@ -170,6 +170,3 @@ We are looking for contributors to expand language support beyond C.
 ## 📄 License
 
 MIT License. See `LICENSE` for details.
-
-```
-```
